@@ -2,3 +2,4 @@ welcome to java world
 
 core java
  
+jdbc , servlets, jsp
