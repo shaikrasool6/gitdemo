@@ -1,0 +1,6 @@
+welcome angular
+
+component
+services 
+and directive
+and routing
